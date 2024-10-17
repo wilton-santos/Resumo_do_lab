@@ -7,7 +7,7 @@ Foi apresentado os Tipos de serviço em Nuvem | Microsoft Azure:
  - PaaS
  - SaaS
 
-#Configuração de uma Instrutura de Banco de Dados 
+#Configuração de uma Instancia de Banco de Dados 
 
 
 #Criação de Banco de Dados SQL e suas configurações 
